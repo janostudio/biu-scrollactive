@@ -1,4 +1,4 @@
-# biu-scrollactive
+# extend-vue-scrollactive
 
 This components is extended from vue-scrollactive, the usage and introduction can be read at [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive).
 
