@@ -19,3 +19,7 @@ wrapEle: {
 
 ```
 
+## Attention
+
+I just modify the 'src/scrollactive' file, haven't package it now. So, you'd best refer it rather than install it.
+
